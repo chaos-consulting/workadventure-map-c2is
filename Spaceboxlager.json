@@ -48,7 +48,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/fcc.freifunk-mk.de\/eule.html"
+                 "value":"https:\/\/chaos-consulting.de\/stream.php"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
