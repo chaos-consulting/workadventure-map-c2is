@@ -11,10 +11,19 @@
  
 * Räume:
   * presentation
-    * Exits: exit_workshop
-    * Entries: entry_workshop
+    * Exit-Layer: exit_workshop
+    * Entry-Layer: entry_workshop
   * backend
+    * Exit-Layer: exit_frontend
+    * Entry-Layer: entry_frontend
   * workshop
+    * Exit-Layer: exit_frontend, exit_presentation
+    * Entry-Layer: entry_frontend, entry_presentation
   * frontend
-  * dev0
+    * Exit-Layer: exit_backend, exit_workshop, exit_dmz, exit_dev0
+    * Exit-Layer: entry_backend, entry_workshop, entry_dmz, entry_dev0
+  * dev0:
+    * Exit-Layer: exit_frontend
+    * Entry-Layer: entry_frontend
+
  
