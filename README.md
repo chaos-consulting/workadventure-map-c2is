@@ -1,15 +1,18 @@
 # workadventure-map-c2is
+
+## Links zum Einstieg
 * Beschreibung zum Erstellen von Karten: https://workadventu.re/map-building
 * Ein Editor für die Karten: https://www.mapeditor.org/
-* Testen der Karte(n): https://play.workadventu.re/_/global/chaos-consulting.github.io/workadventure-map-c2is/Lobby.json
-
 * Slides vom RFCCv1: [BuildingAWorld](./presentation/BuildingAWorld.pdf)
+* Testen der Karte(n): https://play.workadventu.re/_/global/chaos-consulting.github.io/workadventure-map-c2is/frontend.json
 
-* Organisation:
+## Organisation
   * Jeder Raum eine JSON-Datei im "root"-Verzeichnis.
   * Alle Tilesets im Unterordner "tilesets".
  
-* Räume:
+## Räume
+![grundriss](./grundriss.jpg)
+
   * presentation
     * Exit-Layer: exit_workshop
     * Entry-Layer: entry_workshop
