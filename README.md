@@ -1,5 +1,9 @@
 # workadventure-map-c2is
 
+## Voraussetzung
+* Ein github Account.
+
+
 ## Links zum Einstieg
 * Beschreibung zum Erstellen von Karten: https://workadventu.re/map-building
 * Ein Editor für die Karten: https://www.mapeditor.org/
