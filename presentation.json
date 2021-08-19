@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"workshop.json"
+                 "value":"workshop.json#entry_presentation"
                 }],
          "type":"tilelayer",
          "visible":true,
