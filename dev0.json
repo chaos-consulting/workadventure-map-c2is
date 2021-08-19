@@ -26,8 +26,14 @@
          "id":4,
          "name":"exit_frontend",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":".\/presentation.json#entry_frontend"
+                }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":9,
          "x":0,
          "y":0
