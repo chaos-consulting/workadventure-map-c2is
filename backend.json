@@ -9,7 +9,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":16,
          "x":0,
          "y":0
@@ -20,6 +20,12 @@
          "id":8,
          "name":"entry_dev0",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
@@ -50,8 +56,14 @@
          "id":3,
          "name":"entry_frontend",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":16,
          "x":0,
          "y":0
@@ -69,7 +81,7 @@
                  "value":"frontend.json#entry_backend"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":16,
          "x":0,
          "y":0
@@ -81,7 +93,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":16,
          "x":0,
          "y":0
@@ -105,7 +117,7 @@
          "name":"furniture_top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":16,
          "x":0,
          "y":0
@@ -117,7 +129,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }],
