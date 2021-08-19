@@ -395,6 +395,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"wasserkisten",
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
