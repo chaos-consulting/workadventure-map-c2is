@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/frontend.json#entry_frontend"
+                 "value":".\/frontend.json#entry_dev0"
                 }],
          "type":"tilelayer",
          "visible":true,
