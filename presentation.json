@@ -53,7 +53,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"url",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/chaos-consulting.de\/swag\/digitarn.html"
                 }],
