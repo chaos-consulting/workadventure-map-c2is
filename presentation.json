@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":12,
  "infinite":false,
  "layers":[
@@ -22,7 +15,7 @@
                  "value":"workshop.json#entry_presentation"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":21,
          "x":0,
          "y":0
@@ -40,7 +33,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":21,
          "x":0,
          "y":0
@@ -58,7 +51,7 @@
                  "value":"https:\/\/chaos-consulting.de\/swag\/digitarn.html"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":21,
          "x":0,
          "y":0
@@ -76,7 +69,7 @@
                  "value":"https:\/\/chaos-consulting.de\/stream.php"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":21,
          "x":0,
          "y":0
@@ -94,7 +87,25 @@
                  "value":"https:\/\/chaos-consulting.de\/swag\/osmshuffle.html"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
+         "width":21,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 443, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 443, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":12,
+         "id":11,
+         "name":"website_window_west",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/chaos-consulting.de\/swag\/window.jpg"
+                }],
+         "type":"tilelayer",
+         "visible":false,
          "width":21,
          "x":0,
          "y":0
@@ -106,7 +117,7 @@
          "name":"boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":21,
          "x":0,
          "y":0
@@ -118,7 +129,7 @@
          "name":"Wand",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":21,
          "x":0,
          "y":0
@@ -142,21 +153,21 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }],
- "nextlayerid":11,
+ "nextlayerid":12,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.2",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/workadventure-map-c2is\/tilesets\/floortileset.png",
+         "image":"tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -179,7 +190,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"..\/workadventure-map-c2is\/tilesets\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -346,7 +357,7 @@
         {
          "columns":10,
          "firstgid":321,
-         "image":"..\/workadventure-map-c2is\/tilesets\/chaos_furniture.png",
+         "image":"tilesets\/chaos_furniture.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -359,7 +370,7 @@
         {
          "columns":7,
          "firstgid":421,
-         "image":"..\/workadventure-map-c2is\/tilesets\/racksticker.png",
+         "image":"tilesets\/racksticker.png",
          "imageheight":64,
          "imagewidth":224,
          "margin":0,
@@ -372,7 +383,7 @@
         {
          "columns":9,
          "firstgid":435,
-         "image":"..\/workadventure-map-c2is\/tilesets\/mapUtilities.png",
+         "image":"tilesets\/mapUtilities.png",
          "imageheight":32,
          "imagewidth":288,
          "margin":0,
@@ -384,6 +395,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":21
 }
