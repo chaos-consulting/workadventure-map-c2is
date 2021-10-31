@@ -365,6 +365,71 @@
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":500,
+                         "tileid":48
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":68
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":88
+                        }],
+                 "id":48
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":500,
+                         "tileid":49
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":69
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":89
+                        }],
+                 "id":49
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":500,
+                         "tileid":58
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":78
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":98
+                        }],
+                 "id":58
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":500,
+                         "tileid":59
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":79
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":99
+                        }],
+                 "id":59
+                }],
          "tilewidth":32
         }, 
         {
