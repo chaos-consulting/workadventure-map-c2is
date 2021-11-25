@@ -200,7 +200,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/chaos-consulting\/freifunkmeter"
+                 "value":"https:\/\/chaos-consulting.github.io\/workadventure-map-c2is\/pictures\/ffmeter.html"
                 }],
          "type":"tilelayer",
          "visible":true,
