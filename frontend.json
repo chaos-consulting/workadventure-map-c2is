@@ -74,7 +74,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"dmz.json#entry_frontend"
+                 "value":"main.json#entry_frontend"
                 }],
          "type":"tilelayer",
          "visible":true,
