@@ -96,7 +96,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/adsb.chaos-consulting.de\/map\/"
+                 "value":"https:\/\/adsb.chaos-consulting.de\/map\/?nomobi=1"
                 }],
          "type":"tilelayer",
          "visible":true,
