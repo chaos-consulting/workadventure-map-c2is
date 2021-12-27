@@ -178,6 +178,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -201,6 +207,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Milkian, FSM (https:\/\/www.deviantart.com\/milkian\/art\/Tilesets-FSM-RM2K3-para-VX-Ace-Set-Escritorio-651542743)"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -377,6 +389,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC (CC0)"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -390,6 +408,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"chaos_furniture",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"C2IS (GPLv3)"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
